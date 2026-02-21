@@ -3,7 +3,7 @@
 Interactive, browser-based remake of the classic Simon memory game built with vanilla JavaScript, CSS, and HTML.
 
 ### 🚀 Live Demo
-[Play the game](https://madhav-m-malhotra.github.io/simon-game/) right in your browser.
+[Play the game](https://madhav-m-malhotra.github.io/simon-game-frontend-minor-project/) right in your browser.
 
 ### 📚 Background
 Built as part of the Apna College Delta course. Independently implemented beyond the course walkthrough — includes custom styling and a simplified JavaScript approach that uses a single sequence with on‑the‑fly validation.
